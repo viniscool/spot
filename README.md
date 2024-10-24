@@ -46,7 +46,6 @@ Every single person who is treated at a hospital goes through a patient onboardi
 ### Built With
 
 * Swift
-* Javascript
 * XCode
 * AI toolchain with multiple deep learning models
 * Backend supported with APIs and coding libraries
