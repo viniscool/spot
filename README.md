@@ -9,9 +9,6 @@
 
 <h3 align="center">SPOT</h3>
 
-  <p align="center">
-    SPOT is an AI-powered app that makes patient transfers seamless and more equitable. Improving transfers, especially for trauma patients, can significantly improve patient outcomes and make the overall healthcare system more efficient and equitable.
-  </p>
 </div>
 
 
@@ -37,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Every single person who is treated at a hospital goes through a patient onboarding and transfer process (and the average US citizen has multiple hospital stays over the course of their lives). Unfortunately, this crucial step in patient care is currently highly manual and inconsistent, making it prone to costly errors due to miscommunication, oversight, lack of information and language barriers.
+SPOT is an AI-powered app that makes patient transfers seamless and more equitable. Improving transfers, especially for trauma patients, can significantly improve patient outcomes and make the overall healthcare system more efficient and equitable.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
