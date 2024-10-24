@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/viniscool/spot">
-    <img src="icon.png" alt="Logo" width="80" height="80">
+    <img src="icon.png" alt="Logo" height="250">
   </a>
 
 <h3 align="center">SPOT</h3>
